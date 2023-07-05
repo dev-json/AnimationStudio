@@ -1,0 +1,6 @@
+name: AnimationStudio
+version: '${project.version}'
+main: de.jxson.animationstudio.AnimationStudio
+author: Jxson
+api-version: '1.20'
+commands:
